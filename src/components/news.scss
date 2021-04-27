@@ -1,0 +1,23 @@
+.newsItem {
+    width: 27rem;
+    box-shadow: 3px 2px 7px 0px rgba(72, 72, 72, 0.2);
+    margin-top: 5rem;
+
+    img {
+        width: 100%;
+        object-fit: cover;
+        margin-bottom: 1rem;
+    }
+}
+
+button {
+    background-color: rgb(6,41,97);
+    color: white;
+    padding: 1rem 2rem;
+    border-color: rgb(6,41,97);
+}
+
+h3{
+
+    text-align: right;
+}

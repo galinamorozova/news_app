@@ -1,0 +1,6 @@
+.news {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
+    grid-template-rows: 1fr;
+    justify-items: center;
+  }
